@@ -24,7 +24,10 @@ Make sure that your development environment meets the following requirements:
 - Visual Studio Code  
 
 ## Installation and Running the Application
-1. Clone the `getting-started-with-the-vue-carousel-component` repository.
+1. Clone the repository.
+```bash
+git clone https://github.com/SyncfusionExamples/getting-started-with-the-vue-carousel-component.git
+```
 2. Open the project directory in Visual Studio Code.
 3. Install the required dependencies using:`npm install`.
 4. Run the Vue application using the project’s configured development command.
