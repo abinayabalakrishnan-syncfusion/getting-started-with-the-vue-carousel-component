@@ -1,6 +1,5 @@
 # Getting Started with the Vue Carousel Component
 
-**Repository Description**  
 This repository contains a quick‑start Vue sample that demonstrates how to integrate and configure the Syncfusion Vue Carousel component in a Vue application.
 
 A quick‑start Vue project that shows how to get started with the Carousel component. This project includes example code to bind carousel items from a data source and display them in a rotating view.
